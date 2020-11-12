@@ -2,7 +2,8 @@
     <string name="app_name">Dicoding Submission</string>
     <string name="about">About</string>
     <string name="about_me">About Me</string>
-    <string name="about_me">About Me</string>
+    <string name="aprilia_nurkasanah">Aprilia Nurkasanah</string>
+    <string name="mail_aprilianks_gmail_com">mail.aprilianks@gmail.com</string>
 
     <string-array name="cat_name">
         <item>American Shorthair</item>
@@ -18,15 +19,15 @@
     </string-array>
 
     <string-array name="cat_desc">
-        <item>American Shorthair adalah salah satu ras kucing yang paling disukai karena terkenal dengan bulu berwarna perak yang khas dan corak seperti marmer. Saat ini, terdapat lebih dari 60 jenis warna bulu. Ras Kucing American Shorthair adalah kucing berukuran sedang yang kuat.</item>
-        <item>Ras kucing Balinese adalah hewan yang aktif dan menyenangkan, yang suka berbicara dan mengikuti pemiliknya. Bulunya yang panjang adalah bagian dari Oriental family dan dikembangkan dari jenis kucing berbulu panjang yang ditemukan dalam keluarga Siamese di seluruh Amerika.</item>
-        <item>Ras Kucing Bengal berasal dari campuran keturunan berbagai jenis seperti Abyssinian, American Shorthair, Burmese, Egyptian Mau dan Asian Leopard. Pada tahun 1960, peneliti, sebagaimana, California’s Jean Mills, mempelajari penyakit-penyakit berhubungan dengan kucing seperti leukemia dan penyakit kanker lainnya. Ketika mengerjakan penelitian ini, ditemukan bahwa kucing liar seperti singa dan harimau kebal terhadap beberapa penyakit.</item>
-        <item>Untuk seekor kucing yang mencolok dan tidak biasa, susah untuk tidak jatuh cinta pada kucing Birman, atau ‘Kucing suci dari Burma’ sebagaimana dikenal di negara asalnya. Kucing ini memiliki sikap yang tenang dan mempunyai mantel bulu bewarna pucat, wajah yang gelap, telinga, ekor dan kaki dengan ‘gloves’ putih disekitar cakarnya. </item>
-        <item>British Shorthair adalah kucing berukuran sedang dengan bulu khas yang halus. Mereka kucing yang santai dan mudah untuk dirawat, dan juga mereka adalah salah satu ras kucing yang sangat mandiri. Orang-orang akan sangat menyukainya karena tampilan mereka sangat menggemaskan, namun British Shorthairs sebenarnya memiliki tubuh yang gagah dan kuat</item>
-        <item>Maine Coons adalah kucing terbesar dari semua ras kucing domestik. Sebagian besar Maine Coon dapat memiliki berat hingga 15 kilogram. Mereka sangat kuat, perkasa, dan dapat bertahan dalam iklim yang berat. Bulu Maine Coon sangat tebal tetapi halus. Bulu pada spesies pria umumnya lebih tebal dari wanita</item>
-        <item>Kucing Persia adalah kucing ras asing pertama yang diimpor ke Thailand. Kucing Persia telah menjadi salah satu ras kucing paling populer baik lokal maupun internasional. Mereka memiliki kepala bulat yang khas, dengan telinga kecil yang membulat di ujungnya. </item>
-        <item>Ragdoll adalah jenis kucing yang cocok untukmu! Kucing yang tenang, lembut dan mudah bergaul ini berasal dari Amerika Serikat, sebagaimana nama mereka diusulkan, mereka sangat santai dan suka bergantungan di tanganmu seperti rag doll.</item>
+        <item>American Shorthair adalah salah satu ras kucing yang paling disukai karena terkenal dengan bulu berwarna perak yang khas dan corak seperti marmer. .</item>
+        <item>Ras kucing Balinese adalah hewan yang aktif dan menyenangkan, yang suka berbicara dan mengikuti pemiliknya. </item>
+        <item>Ras Kucing Bengal berasal dari campuran keturunan berbagai jenis seperti Abyssinian, American Shorthair, Burmese, Egyptian Mau dan Asian Leopard. </item>
+        <item>Untuk seekor kucing yang mencolok dan tidak biasa, susah untuk tidak jatuh cinta pada kucing Birman, atau ‘Kucing suci dari Burma’ sebagaimana dikenal di negara asalnya.</item>
+        <item>British Shorthair adalah kucing berukuran sedang dengan bulu khas yang halus. </item>
+        <item>Maine Coons adalah kucing terbesar dari semua ras kucing domestik. </item>
+        <item>Kucing Persia adalah kucing ras asing pertama yang diimpor ke Thailand.  </item>
+        <item>Ragdoll adalah jenis kucing yang cocok untukmu! Kucing yang tenang, lembut dan mudah bergaul ini berasal dari Amerika Serikat.</item>
         <item>Russian Blue pertama kali berasal dari pelabuhan Baltic of Archangel, dekat dengan Arctic Circle dan dibawa sebagai barang perdagangan oleh saudagar di perkapalan yang ditukarkan dengan saudagar dari Inggris. </item>
-        <item>Scottish Fold adalah kucing berukuran sedang dengan bentuk badan yang bulat. Scottish Fold disebut juga “Lop -eared” atau “Lops” karena telinganya mulai terlipat saat bulan pertama nya. Scottish Fold juga sangat penuh kasih sayang dan kucing dengan kualitas yang tinggi</item>
+        <item>Scottish Fold adalah kucing berukuran sedang dengan bentuk badan yang bulat.</item>
     </string-array>
 </resources>

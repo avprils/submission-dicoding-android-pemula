@@ -47,7 +47,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> {
                 Intent intent = new Intent(context, DescActivity.class);
                 intent.putExtra("d1", d1[position]);
                 intent.putExtra("d2", d2[position]);
-                intent.putExtra("myImg", image[position]);
+                intent.putExtra("myImage", image[position]);
                 context.startActivity(intent);
             }
         });
